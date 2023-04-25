@@ -1,8 +1,8 @@
 # Rive_Animation_Project
 
-* This project was created after disign courses which help me to improve my skills in creation complex animation.
+* This project was created after finishing design courses which helps me to improve my skills in creation complex animation.
 Here i'm using Rive servise to create nice animation effect. With Rive i'm easily create complex animation effects withous much efforts.
-Animation effecs helps increase positive user experience and grab more attantion to our App.
+Animation effects helps increase positive user experience and grab more attention to our App.
 
 
 ![1](https://user-images.githubusercontent.com/105702456/233387063-05dc26ad-29d7-4c42-aac5-981da3b859f3.gif)
